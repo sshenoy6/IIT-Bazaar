@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 55,
+                        "endOffset": 338
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 55,
+                        "endOffset": 338
+                    }
+                }
+            }
+        ]
+    }
+]

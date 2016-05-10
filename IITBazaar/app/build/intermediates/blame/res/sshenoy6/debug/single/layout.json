@@ -1,0 +1,698 @@
+[
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\remove_picture_list.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\remove_picture_list.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\rankprompt.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\rankprompt.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\buy_dialog.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\buy_dialog.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\contact_seller_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\contact_seller_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\sellmenufragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\sellmenufragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\sell_item_init_entry_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\sell_item_init_entry_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\nav_header_bazaar.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\nav_header_bazaar.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\buy_dialog.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\buy_dialog.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\rankprompt.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\rankprompt.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\remove_picture_item_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\remove_picture_item_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\sell_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\sell_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\cont_sell_name_frag.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\cont_sell_name_frag.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\picture_entry_dialog.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\picture_entry_dialog.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\nav_header_bazaar.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\nav_header_bazaar.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\recycler_view_list_frag.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\recycler_view_list_frag.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\cont_sell_pict_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\cont_sell_pict_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\buysellfragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\buysellfragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\cont_sell_pict_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\cont_sell_pict_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\cont_sell_cont_frag.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\cont_sell_cont_frag.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\item_description_content_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\item_description_content_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\content_bazaar.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\content_bazaar.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\buymenufragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\buymenufragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\bypassbuttonfragment_prodfiller.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\bypassbuttonfragment_prodfiller.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\sell_item_init_entry_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\sell_item_init_entry_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\item_description_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\item_description_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\remove_picture_button_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\remove_picture_button_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\app_bar_bazaar.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\app_bar_bazaar.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\activity_login.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\item_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\item_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\item_description_button_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\item_description_button_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\description_removal_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\description_removal_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\buy_category_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\buy_category_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\buy_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\buy_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\cont_sell_feed_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\cont_sell_feed_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\activity_bazaar.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\activity_bazaar.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\buy_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\buy_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\sell_service_init_entry_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\sell_service_init_entry_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\test_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\test_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\remove_picture_item_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\remove_picture_item_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\test_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\test_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\category_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\category_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\remove_picture_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\remove_picture_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\item_entry_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\item_entry_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\item_description_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\item_description_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\remove_picture_button_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\remove_picture_button_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\activity_bazaar.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\activity_bazaar.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\cont_sell_items_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\cont_sell_items_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\picture_entry_dialog.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\picture_entry_dialog.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\item_description_content_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\item_description_content_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\app_bar_bazaar.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\app_bar_bazaar.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\buy_category_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\buy_category_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\description_removal_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\description_removal_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\activity_login.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\sell_service_init_entry_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\sell_service_init_entry_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\cont_sell_cont_frag.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\cont_sell_cont_frag.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\bypassbuttonfragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\bypassbuttonfragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\buysellfragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\buysellfragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\remove_picture_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\remove_picture_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\category_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\category_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\sell_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\sell_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\bypassbuttonfragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\bypassbuttonfragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\cont_sell_name_frag.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\cont_sell_name_frag.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\cont_sell_items_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\cont_sell_items_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\recycler_view_list_frag.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\recycler_view_list_frag.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\fragment_native_camera.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\fragment_native_camera.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\sellmenufragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\sellmenufragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\fragment_native_camera.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\fragment_native_camera.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\bypassbuttonfragment_prodfiller.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\bypassbuttonfragment_prodfiller.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\item_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\item_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\contact_seller_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\contact_seller_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\item_entry_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\item_entry_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\content_bazaar.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\content_bazaar.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\item_entry_category_fragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\item_entry_category_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\buymenufragment.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\buymenufragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\remove_picture_list.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\src\\main\\res\\layout\\remove_picture_list.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\item_entry_category_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\item_entry_category_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\cont_sell_feed_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\cont_sell_feed_fragment.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\item_description_button_fragment.xml",
+        "source": "D:\\IIT Chicago\\Notes_TextBooks\\MAD\\IITBazaar\\app\\src\\main\\res\\layout\\item_description_button_fragment.xml"
+    },
+    {
+        "merged": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\res\\merged\\sshenoy6\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\Check _ repository\\team7_proj_cs442\\src\\IITBazaar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    }
+]
